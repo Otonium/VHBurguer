@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Applications",
+    "\\Applications\\Conversoes",
+    "\\Applications\\Regras",
+    "\\Applications\\Services",
+    "\\Controllers",
+    "\\DTOs",
+    "\\DTOs\\ProdutoDto",
+    "\\Interfaces",
+    "\\Repositories"
+  ],
+  "SelectedNode": "\\Controllers",
+  "PreviewInSolutionExplorer": false
+}
